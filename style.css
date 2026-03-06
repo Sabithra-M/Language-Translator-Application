@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    width: 100vw;
+    height: 100vh;
+}
+.main-container{
+    width: 100%;
+    height: 100%;
+}
+.head-container{
+    background-color: green;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+}
+.head-container h1{
+    margin-top: 25px;
+}
+.head-container h3{
+    margin-top: 15px;
+    color: rgb(240, 248, 255, 0.80);
+}
+nav{
+    background-color: black;
+    color: aliceblue;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+nav li{
+    margin: 0 10px;
+}
+nav li:hover{
+    background-color: aliceblue;
+    color: black;
+    padding: 0 5px;
+    cursor: pointer;
+}
+.content{
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content h2{
+    margin-top: 30px;
+}
+.content p{
+    width: 50%;
+    margin: 20px;
+}
+#translator{
+    width: 50%;
+    display: flex;
+    justify-content: first baseline;
+}
+
+footer{
+    height: 10%;
+    background-color: black;
+    color: rgb(170, 178, 185);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer:hover{
+    color: aliceblue;
+}
