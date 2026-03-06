@@ -10,9 +10,9 @@ https://sabithra-m.github.io/Language-Translator-Application/
 
 ## Project Demo
 
-###Main User Interface
+### Main User Interface
 ![Main Interface](main-interface.png)
-###Language translator app
+### Language translator app
 ![Language Translator](language-translator.png)
 
 ## Features
