@@ -5,6 +5,16 @@ This project allows users to translate text from one language to another using t
 
 The application provides an easy-to-use interface where users can enter text, choose a target language, and instantly see the translated result.
 
+## Live Demo
+https://sabithra-m.github.io/Language-Translator-Application/
+
+## Project Demo
+
+###Main User Interface
+![Main Interface](main-interface.png)
+###Language translator app
+![Language Translator](language-translator.png)
+
 ## Features
 
 - Translate text into multiple languages
